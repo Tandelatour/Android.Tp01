@@ -39,6 +39,5 @@ class DemoNavTwoActivity : AppCompatActivity() {
         startActivity(intent)   // ca ouvre une activité
 
 
-
     }
 }
